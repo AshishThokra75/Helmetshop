@@ -1,0 +1,36 @@
+.logo{
+    height: 50px;
+    width: 75px;
+}
+.custom-nav1{
+    margin-top: 1px;
+    
+}
+.custom-carousel{
+    height: 550px;
+}
+.content1{
+    height: 700px;
+    width: 100%;
+    /* background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/octane/IBDXU2XBZRZFVJA2X7TQOATUWA.jpg); */
+    background-color: black;
+}
+.custom-card{
+    height: 100%;
+    border-color: transparent;
+}
+.custom-signup{
+    background-color: black;
+    margin-left: 110px;
+}
+.slogo{
+    margin: 110px;
+}
+.Subscribe{
+    margin-left: 100px ;
+}
+.cover{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(16, 16, 17);
+}
